@@ -44,3 +44,10 @@ GlukoLab ima za cilj da bude jednostavan, pouzdan alat koji korisnicima pomaže 
 ## Napomena
 
 Aplikacija nije medicinski proizvod. Namenjena je isključivo za lično informisanje korisnika. Za sve odluke vezane za zdravlje, konsultujte se sa lekarom.
+
+---
+
+## Architecture Overview
+
+For details on the recommended project structure and technology stack, see [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+
